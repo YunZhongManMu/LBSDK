@@ -23,6 +23,7 @@
     redView.backgroundColor = [UIColor redColor];
     redView.center = self.center;
     [self addSubview:redView];
+    NSLog(@"写一个测试log");
 }
 
 @end
