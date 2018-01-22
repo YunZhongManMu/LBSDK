@@ -1,0 +1,33 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - LBSDK (0.1.1):
+    - AFNetworking (~> 3.1.0)
+
+DEPENDENCIES:
+  - LBSDK (from `../`)
+
+EXTERNAL SOURCES:
+  LBSDK:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  LBSDK: 165ca91806bd0541201fb123c4e6f8af06d8c8d1
+
+PODFILE CHECKSUM: 1fd1befb3c6a99d0d65cf205b648f7325f7101f1
+
+COCOAPODS: 1.4.0

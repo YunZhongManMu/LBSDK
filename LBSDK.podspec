@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBSDK'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of LBSDK.'
+  s.version          = '0.1.1'
+  s.summary          = '这是一个描述, 测试描述的长度'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = '这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度'
 
   s.homepage         = 'https://github.com/240281000@qq.com/LBSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
@@ -36,7 +34,7 @@ TODO: Add long description of the pod here.
   #   'LBSDK' => ['LBSDK/Assets/*.png']
   # }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
+  # s.public_header_files = 'Pod/Classes/*.{h, m}'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'AFNetworking', '~> 3.1.0'
 end
