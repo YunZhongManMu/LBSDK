@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LBSDK_Tests' do
+  pod 'LBSDK', :path => '../'
+  
+  
+end
