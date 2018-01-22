@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBSDK'
-  s.version          = '0.1.2'
+  s.version          = '0.1.3'
   s.summary          = '这是一个描述, 测试描述的长度'
 
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'YunZhongManMu' => 'yunzhong1075@126.com' }
-  s.source           = { :git => 'https://github.com/240281000@qq.com/LBSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/YunZhongManMu/LBSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
