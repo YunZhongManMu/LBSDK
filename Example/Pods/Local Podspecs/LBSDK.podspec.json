@@ -1,19 +1,19 @@
 {
   "name": "LBSDK",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "这是一个描述, 测试描述的长度",
   "description": "这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度",
-  "homepage": "https://github.com/240281000@qq.com/LBSDK",
+  "homepage": "https://github.com/YunZhongManMu/LBSDK",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "240281000@qq.com": "yunzhong1075@126.com"
+    "YunZhongManMu": "yunzhong1075@126.com"
   },
   "source": {
     "git": "https://github.com/240281000@qq.com/LBSDK.git",
-    "tag": "0.1.1"
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"

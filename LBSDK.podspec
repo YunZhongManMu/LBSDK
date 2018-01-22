@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'LBSDK'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '这是一个描述, 测试描述的长度'
 
 # This description is used to generate tags and improve search results.
