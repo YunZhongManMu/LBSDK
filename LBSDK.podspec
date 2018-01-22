@@ -19,10 +19,10 @@ Pod::Spec.new do |s|
 
   s.description      = '这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度这是一个描述, 测试描述的长度'
 
-  s.homepage         = 'https://github.com/240281000@qq.com/LBSDK'
+  s.homepage         = 'https://github.com/YunZhongManMu/LBSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '240281000@qq.com' => 'yunzhong1075@126.com' }
+  s.author           = { 'YunZhongManMu' => 'yunzhong1075@126.com' }
   s.source           = { :git => 'https://github.com/240281000@qq.com/LBSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
